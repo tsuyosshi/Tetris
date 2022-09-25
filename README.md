@@ -1,6 +1,6 @@
 # Tetris
-visual studioとgithubの連携がうまくできなかったのでソースコードはフォルダにまとめています。
-siv3DでTetrisを作りました
+siv3DでTetrisを作りました。
+ソースコードはフォルダにまとめています。
 ```
 移動 ← →
 左回転 Z
